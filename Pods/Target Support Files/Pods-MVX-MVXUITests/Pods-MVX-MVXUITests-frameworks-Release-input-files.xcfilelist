@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-MVX-MVXUITests/Pods-MVX-MVXUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/ReactiveCocoa/ReactiveCocoa.framework
+${BUILT_PRODUCTS_DIR}/Toast/Toast.framework
